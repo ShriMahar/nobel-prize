@@ -8,6 +8,8 @@ from PIL import Image
 from nltk.corpus import stopwords
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 from os import path
+import nltk
+nltk.download('stopwords')
 
 # custom stop words for wordcloud
 def stop_words():
