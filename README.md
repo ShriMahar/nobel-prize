@@ -6,5 +6,5 @@ Let the data exploration games begin!
 
 oh wait! to takes things a bit further I have used **Streamlit**  an open-source Python library that makes it super easy to create interactive web applications and data visualizations. allowing me to turn data scripts into shareable web apps while adding an element of interactivity, customization, and storytelling, making the exploration of this historical and diverse dataset both enjoyable and insightful.
 
-Here is the link to the web app, hope you will learn a thing or two about this prestigious award, enjoy! :)  
+Here is the link to the web app, hope you will learn a thing or two about this prestigious award, enjoy!! :)  
 https://nobel-prize-analysis.streamlit.app/
